@@ -1,2 +1,2 @@
-## *Dinosaurs Game in C++*
+## *Dinosaurs Game in C and C++*
 
